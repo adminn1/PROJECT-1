@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="86dp"
+        android:layout_height="108dp"
+        android:id="@+id/io"
+        android:src="@drawable/io"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/home" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="1161dp">
+
+        <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="@string/ทิศผีหลวง"
+                android:id="@+id/btn_2" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ดูวันตัดเล็บ"
+                android:id="@+id/btn_3" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ดูวันสระผม"
+                android:id="@+id/btn_4" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/สีประจำวัน"
+                android:id="@+id/btn_5" />
+
+        <Button
+                android:layout_width="111dp"
+                android:layout_height="wrap_content"
+                android:text="@string/ตาเขม่น"
+                android:id="@+id/btn_6" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/วันตัดผมใหม่"
+                android:id="@+id/btn_7" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ต้นไม้ที่ควรปลูกตามทิศต่างๆ"
+                android:id="@+id/btn_8" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ตัวเงินตัวทองเข้าบ้าน"
+                android:id="@+id/btn_9" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/พุธห้ามตัดพฤหัสห้ามถอน"
+                android:id="@+id/btn_10" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/อัญมณีวันเกิด"
+                android:id="@+id/btn_11" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/อัญมณีปีเกิด"
+                android:id="@+id/btn_12" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/หวีหักโชคไม่ดี"
+                android:id="@+id/btn_13" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/คนหัวล้านมักเจ้าชู้เจ้าเล่ห์"
+                android:id="@+id/btn_14" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ใส่เสื้อผ้าใหม่ในวันไหนดี"
+                android:id="@+id/btn_15" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/จิ้งจกทัก"
+                android:id="@+id/btn_16" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/กลางคืนได้ยินเสียงร้องเรียกห้ามขานรับ"
+                android:id="@+id/btn_17" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ผมหยิกหน้าก้อคอต่อคิ้วสั้นคบไม่ได้"
+                android:id="@+id/btn_18" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ขอพรสิ่งศักดิ์จะหันไปทางใหนในวันนั้น"
+                android:id="@+id/btn_19" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/นกแสกเกาะหลังคาบ้านเกิดลางร้าย"
+                android:id="@+id/btn_20" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/วันต้องห้าม"
+                android:id="@+id/btn_21" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ทำนายดวงจากต้นว่าน"
+                android:id="@+id/btn_22" />
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/สัตว์ป่าเข้าบ้าน"
+                android:id="@+id/btn_23" />
+
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/สิ่งที่ห้ามในการปลูกเรือน"
+                android:id="@+id/btn_24" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/สีเสื้อประจำวัน"
+            android:id="@+id/btn_25" />
+
+
+    </TableLayout>
+    </LinearLayout>
+</ScrollView>

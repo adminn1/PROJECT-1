@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">Auspicious</string>
+    <string name="hello_world">hello_world</string>
+    <string name="action_settings">settings</string>
+    <string name="dota">DOTA</string>
+    <string name="id">ค้นหา...</string>
+    <string name="menu">MENU</string>
+    <string name="io">io</string>
+    <string name="home">Home</string>
+    <string name="ทิศผีหลวง">ทิศผีหลวง</string>
+    <string name="ดูวันตัดเล็บ">ดูวันตัดเล็บ</string>
+    <string name="ดูวันสระผม">ดูวันสระผม</string>
+    <string name="สีประจำวัน">สีประจำวัน</string>
+    <string name="ตาเขม่น">ตาเขม่น</string>
+    <string name="วันตัดผมใหม่">วันตัดผมใหม่</string>
+    <string name="ต้นไม้ที่ควรปลูกตามทิศต่างๆ">ต้นไม้ที่ควรปลูกตามทิศต่างๆ</string>
+    <string name="ตัวเงินตัวทองเข้าบ้าน">ตัวเงินตัวทองเข้าบ้าน</string>
+    <string name="พุธห้ามตัดพฤหัสห้ามถอน">พุธห้ามตัดพฤหัสห้ามถอน</string>
+    <string name="อัญมณีวันเกิด">อัญมณีวันเกิด</string>
+    <string name="อัญมณีปีเกิด">อัญมณีปีเกิด</string>
+    <string name="หวีหักโชคไม่ดี">หวีหักโชคไม่ดี</string>
+    <string name="คนหัวล้านมักเจ้าชู้เจ้าเล่ห์">คนหัวล้านมักเจ้าชู้เจ้าเล่ห์</string>
+    <string name="ใส่เสื้อผ้าใหม่ในวันไหนดี">ใส่เสื้อผ้าใหม่ในวันไหนดี</string>
+    <string name="จิ้งจกทัก">จิ้งจกทัก</string>
+    <string name="กลางคืนได้ยินเสียงร้องเรียกห้ามขานรับ">กลางคืนได้ยินเสียงร้องเรียกห้ามขานรับ</string>
+    <string name="ผมหยิกหน้าก้อคอต่อคิ้วสั้นคบไม่ได้">ผมหยิกหน้าก้อคอต่อคิ้วสั้นคบไม่ได้</string>
+    <string name="ขอพรสิ่งศักดิ์จะหันไปทางใหนในวันนั้น">ขอพรสิ่งศักดิ์จะหันไปทางใหนในวันนั้นๆ</string>
+    <string name="นกแสกเกาะหลังคาบ้านเกิดลางร้าย">นกแสกเกาะหลังคาบ้าน เกิดลางร้าย</string>
+    <string name="วันต้องห้าม">วันต้องห้าม</string>
+    <string name="ทำนายดวงจากต้นว่าน">ทำนายดวงจากต้นว่าน</string>
+    <string name="สัตว์ป่าเข้าบ้าน">สัตว์ป่าเข้าบ้าน</string>
+    <string name="สิ่งที่ห้ามในการปลูกเรือน">สิ่งที่ห้ามในการปลูกเรือน</string>
+    <string name="สีเสื้อประจำวัน">สีเสื้อประจำวัน</string>
+
+
+    <string-array  name="data">
+        <item>ดูวันตัดเล็บ</item>
+        <item>ดูวันสระผม</item>
+        <item>ทิศผีหลวง</item>
+        <item>สีประจำวัน</item>
+        <item>ตาเขม่น</item>
+        <item>วันตัดผมใหม่</item>
+        <item>ต้นไม้ที่ควรปลูกตามทิศต่างๆ</item>
+        <item>ตัวเงินตัวทองเข้าบ้าน</item>
+        <item>พุธห้ามตัด,พฤหัสห้ามถอน</item>
+        <item>อัญมณี วันเกิด</item>
+        <item>อัญมณี ปีเกิด</item>
+        <item>หวีหักโชคไม่ดี</item>
+        <item>คนหัวล้านมักเจ้าชู้ เจ้าเล่ห์</item>
+        <item>ใส่เสื้อผ้าใหม่ในวันไหนดี</item>
+        <item>จิ้งจกทัก</item>
+        <item>กลางคืนได้ยินเสียงร้องเรียกห้ามขานรับ</item>
+        <item>ผมหยิก หน้าก้อ คอต่อ คิ้วสั้น คบไม่ได้</item>
+        <item>ขอพรสิ่งศักดิ์จะหันไปทางใหนในวันนั้นๆ</item>
+        <item>นกแสกเกาะหลังคาบ้าน เกิดลางร้าย</item>
+        <item>วันต้องห้าม</item>
+        <item>ทำนายดวงจากต้นว่าน</item>
+        <item>สัตว์ป่าเข้าบ้าน</item>
+        <item>สิ่งที่ห้ามในการปลูกเรือน</item>
+        <item>สีเสื้อประจำวัน</item>
+
+
+
+    </string-array>
+
+</resources>
