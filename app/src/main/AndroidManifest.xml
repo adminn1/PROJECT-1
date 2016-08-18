@@ -40,6 +40,7 @@
         <activity android:name=".Page23Activity"></activity>
         <activity android:name=".Page24Activity"></activity>
         <activity android:name=".Page25Activity"></activity>
+        <activity android:name=".Page26Activity"></activity>
 
 
     </application>

@@ -270,6 +270,19 @@ public class menu_Activity extends MainActivity {
             }
         });
 
+        // view matching
+        Button btn_24 = (Button) findViewById(R.id.btn_25);
+
+        btn_24.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent myIntent = new Intent(menu_Activity.this, Page26Activity.class);
+                startActivity(myIntent);
+            }
+        });
+
+
+
 
 
 
