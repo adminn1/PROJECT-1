@@ -38,6 +38,7 @@
         <activity android:name=".Page21Activity"></activity>
         <activity android:name=".Page22Activity"></activity>
         <activity android:name=".Page23Activity"></activity>
+        <activity android:name=".Page24Activity"></activity>
 
 
     </application>
