@@ -163,10 +163,10 @@
                 android:id="@+id/btn_24" />
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/สีเสื้อประจำวัน"
-            android:id="@+id/btn_25" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/สีเสื้อประจำวัน"
+                android:id="@+id/btn_25" />
 
 
     </TableLayout>

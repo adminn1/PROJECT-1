@@ -29,7 +29,7 @@
         <TextView
             android:text="ต้นไม้ที่ควรปลูกตามทิศต่างๆ"
             android:textStyle="bold"
-            android:textSize="40sp"
+            android:textSize="25sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal|top"
