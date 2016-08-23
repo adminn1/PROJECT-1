@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/backm"
     tools:context="com.auspicious.auspicious.page2Activity"
     android:id="@+id/Relative">
 
@@ -23,7 +24,7 @@
 
     <FrameLayout
         android:layout_width="fill_parent"
-        android:layout_height="match_parent"
+        android:layout_height="582dp"
         android:layout_alignParentStart="true"
         android:id="@+id/Frame3"
         android:layout_alignParentTop="true">
@@ -41,6 +42,24 @@
             android:layout_alignBottom="@+id/page4_title"
             android:focusable="false"
             android:focusableInTouchMode="false" />
+
+        <TextView
+            android:layout_width="353dp"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="15sp"
+            android:text="@string/tx4"
+            android:id="@+id/tx4"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="50dp" />
+
+        <ImageView
+            android:layout_width="255dp"
+            android:layout_height="255dp"
+            android:id="@+id/xm4"
+            android:layout_gravity="center_horizontal|bottom" />
+
+
     </FrameLayout>
     </LinearLayout>
 
