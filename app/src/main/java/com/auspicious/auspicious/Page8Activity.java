@@ -20,6 +20,8 @@ public class Page8Activity extends AppCompatActivity {
         String title = getIntent.getStringExtra("title");
 
 
+
+
         // view matching
         Page8_title = (TextView) findViewById(R.id.page8_title);
         Page8_title.setText(title);
