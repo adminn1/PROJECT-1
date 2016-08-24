@@ -25,7 +25,7 @@
 
     <FrameLayout
         android:layout_width="fill_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:id="@+id/Frame3"
         android:layout_alignParentTop="true">
@@ -43,6 +43,22 @@
             android:layout_alignBottom="@+id/page11_title"
             android:focusable="false"
             android:focusableInTouchMode="false" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="531dp"
+            android:textSize="12sp"
+            android:text="@string/tx11"
+            android:id="@+id/page3_title"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="70dp" />
+
+        <ImageView
+            android:layout_width="229dp"
+            android:layout_height="229dp"
+            android:id="@+id/xm11"
+            android:layout_gravity="center" />
+
     </FrameLayout>
     </LinearLayout>
 
