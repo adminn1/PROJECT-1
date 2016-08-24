@@ -58,7 +58,7 @@
             android:layout_width="229dp"
             android:layout_height="229dp"
             android:id="@+id/gg1"
-            android:layout_gravity="center_horizontal|bottom" />
+            android:layout_gravity="center" />
 
     </FrameLayout>
     </LinearLayout>
