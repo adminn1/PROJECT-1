@@ -51,11 +51,11 @@
             android:text="@string/tx4"
             android:id="@+id/tx4"
             android:layout_gravity="center_horizontal|top"
-            android:layout_marginTop="50dp" />
+            android:layout_marginTop="70dp" />
 
         <ImageView
-            android:layout_width="255dp"
-            android:layout_height="255dp"
+            android:layout_width="244dp"
+            android:layout_height="244dp"
             android:id="@+id/xm4"
             android:layout_gravity="center_horizontal|bottom" />
 
