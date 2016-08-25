@@ -21,8 +21,8 @@ public class Page10Activity extends AppCompatActivity {
         String title = getIntent.getStringExtra("title");
 
 
-        ImageView gg1 = (ImageView) findViewById(R.id.gg1);
-        gg1.setImageResource(R.drawable.tx10);
+        ImageView xm10 = (ImageView) findViewById(R.id.xm10);
+        xm10.setImageResource(R.drawable.tx10);
 
 
         // view matching
