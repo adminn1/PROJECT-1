@@ -15,9 +15,17 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+        <TextView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/page3_title"
+            android:textStyle="bold"
+            android:textSize="60sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
         <FrameLayout
             android:layout_width="fill_parent"
-            android:layout_height="508dp"
+            android:layout_height="450dp"
             android:layout_alignParentStart="true"
             android:id="@+id/Frame3"
             android:layout_alignParentTop="true">
@@ -35,14 +43,22 @@
                 android:layout_alignBottom="@+id/page5_title"
                 android:focusable="false"
                 android:focusableInTouchMode="false" />
+
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="531dp"
+                android:layout_height="395dp"
                 android:textSize="12sp"
-                android:text="@string/tx5"
-                android:id="@+id/page3_title"
+                android:text="@string/tx3"
+                android:id="@+id/nn"
                 android:layout_gravity="center_horizontal|top"
                 android:layout_marginTop="70dp" />
+
+            <ImageView
+                android:layout_width="268dp"
+                android:layout_height="294dp"
+                android:id="@+id/xm3"
+                android:layout_gravity="center_horizontal|bottom" />
 
 
         </FrameLayout>
