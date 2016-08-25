@@ -34,7 +34,7 @@
         <TextView
             android:text="พุธห้ามตัดพฤหัสห้ามถอน"
             android:textStyle="bold"
-            android:textSize="30sp"
+            android:textSize="23sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal|top"
@@ -57,7 +57,7 @@
             android:layout_width="229dp"
             android:layout_height="229dp"
             android:id="@+id/xm11"
-            android:layout_gravity="center" />
+            android:layout_gravity="center_horizontal|bottom" />
 
     </FrameLayout>
     </LinearLayout>

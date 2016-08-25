@@ -54,8 +54,8 @@
             android:layout_marginTop="70dp" />
 
         <ImageView
-            android:layout_width="308dp"
-            android:layout_height="308dp"
+            android:layout_width="232dp"
+            android:layout_height="232dp"
             android:id="@+id/xm13"
             android:layout_gravity="center_horizontal|bottom" />
 
