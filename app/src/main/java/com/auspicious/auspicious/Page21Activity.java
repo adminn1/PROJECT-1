@@ -3,6 +3,7 @@ package com.auspicious.auspicious;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class Page21Activity extends AppCompatActivity {
@@ -18,6 +19,9 @@ public class Page21Activity extends AppCompatActivity {
 
         Intent getIntent = getIntent();
         String title = getIntent.getStringExtra("title");
+
+        ImageView xm21 = (ImageView) findViewById(R.id.xm21);
+        xm21.setImageResource(R.drawable.tx21);
 
 
         // view matching
