@@ -54,8 +54,8 @@
             android:layout_marginTop="70dp" />
 
         <ImageView
-            android:layout_width="218dp"
-            android:layout_height="218dp"
+            android:layout_width="258dp"
+            android:layout_height="258dp"
             android:id="@+id/xm16"
             android:layout_gravity="center_horizontal|bottom" />
 

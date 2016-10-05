@@ -47,7 +47,7 @@
         <TextView
             android:layout_width="336dp"
             android:layout_height="531dp"
-            android:textSize="12sp"
+            android:textSize="15sp"
             android:text="@string/tx14"
             android:id="@+id/page3_title"
             android:layout_gravity="center_horizontal|top"

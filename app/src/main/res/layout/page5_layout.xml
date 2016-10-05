@@ -46,15 +46,15 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="531dp"
-            android:textSize="12sp"
+            android:textSize="15sp"
             android:text="@string/tx5"
             android:id="@+id/page3_title"
             android:layout_gravity="center_horizontal|top"
             android:layout_marginTop="70dp" />
 
         <ImageView
-            android:layout_width="229dp"
-            android:layout_height="229dp"
+            android:layout_width="249dp"
+            android:layout_height="249dp"
             android:id="@+id/xm5"
             android:layout_gravity="center_horizontal|bottom" />
     </FrameLayout>
