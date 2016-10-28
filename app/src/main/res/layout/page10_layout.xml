@@ -33,7 +33,7 @@
 
 
         <TextView
-            android:text="ตัวเงินตัวทองเข้าบ้าน"
+            android:text="       ตัวเงินตัวทองเข้าบ้าน"
             android:textStyle="bold"
             android:textSize="25sp"
             android:layout_width="317dp"

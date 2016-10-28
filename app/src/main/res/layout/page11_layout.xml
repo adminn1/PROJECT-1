@@ -46,7 +46,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="531dp"
+            android:layout_height="475dp"
             android:textSize="12sp"
             android:text="@string/tx11"
             android:id="@+id/page3_title"
