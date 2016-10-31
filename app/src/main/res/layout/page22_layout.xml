@@ -25,7 +25,7 @@
 
     <FrameLayout
         android:layout_width="fill_parent"
-        android:layout_height="797dp"
+        android:layout_height="1400dp"
         android:layout_alignParentStart="true"
         android:id="@+id/Frame3"
         android:layout_alignParentTop="true">
@@ -46,8 +46,8 @@
 
         <TextView
             android:layout_width="312dp"
-            android:layout_height="790dp"
-            android:textSize="12sp"
+            android:layout_height="1255dp"
+            android:textSize="16sp"
             android:text="@string/tx22"
             android:id="@+id/page3_title"
             android:layout_gravity="center_horizontal|top"

@@ -24,7 +24,7 @@
 
     <FrameLayout
         android:layout_width="fill_parent"
-        android:layout_height="798dp"
+        android:layout_height="821dp"
         android:layout_alignParentStart="true"
         android:id="@+id/Frame3"
         android:layout_alignParentTop="true">
