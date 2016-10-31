@@ -45,9 +45,9 @@
             android:focusableInTouchMode="false" />
 
         <TextView
-            android:layout_width="156dp"
+            android:layout_width="197dp"
             android:layout_height="531dp"
-            android:textSize="15sp"
+            android:textSize="18sp"
             android:text="@string/tx13"
             android:id="@+id/page3_title"
             android:layout_gravity="center_horizontal|top"
